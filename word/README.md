@@ -20,7 +20,7 @@
 {
     "data":
     [{
-        "rgb":string,
+        "rgb":string,(格式为#xxxxxx,如#66ccff)
         "content":string,
     }]
 }
